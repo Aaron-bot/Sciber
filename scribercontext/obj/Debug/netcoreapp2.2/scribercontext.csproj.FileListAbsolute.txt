@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\scribercontext\scribercontext\bin\Debug\netcoreapp2.2\scribercontext.deps.json
+C:\Users\aaron\source\repos\scribercontext\scribercontext\bin\Debug\netcoreapp2.2\scribercontext.runtimeconfig.json
+C:\Users\aaron\source\repos\scribercontext\scribercontext\bin\Debug\netcoreapp2.2\scribercontext.runtimeconfig.dev.json
+C:\Users\aaron\source\repos\scribercontext\scribercontext\bin\Debug\netcoreapp2.2\scribercontext.dll
+C:\Users\aaron\source\repos\scribercontext\scribercontext\bin\Debug\netcoreapp2.2\scribercontext.pdb
+C:\Users\aaron\source\repos\scribercontext\scribercontext\obj\Debug\netcoreapp2.2\scribercontext.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\scribercontext\scribercontext\obj\Debug\netcoreapp2.2\scribercontext.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\scribercontext\scribercontext\obj\Debug\netcoreapp2.2\scribercontext.RazorAssemblyInfo.cache
+C:\Users\aaron\source\repos\scribercontext\scribercontext\obj\Debug\netcoreapp2.2\scribercontext.RazorAssemblyInfo.cs
+C:\Users\aaron\source\repos\scribercontext\scribercontext\obj\Debug\netcoreapp2.2\scribercontext.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\scribercontext\scribercontext\obj\Debug\netcoreapp2.2\scribercontext.AssemblyInfo.cs
+C:\Users\aaron\source\repos\scribercontext\scribercontext\obj\Debug\netcoreapp2.2\scribercontext.RazorTargetAssemblyInfo.cache
+C:\Users\aaron\source\repos\scribercontext\scribercontext\obj\Debug\netcoreapp2.2\scribercontext.dll
+C:\Users\aaron\source\repos\scribercontext\scribercontext\obj\Debug\netcoreapp2.2\scribercontext.pdb
